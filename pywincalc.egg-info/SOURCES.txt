@@ -1,0 +1,9 @@
+LICENSE
+pyproject.toml
+setup.cfg
+setup.py
+pywincalc.egg-info/PKG-INFO
+pywincalc.egg-info/SOURCES.txt
+pywincalc.egg-info/dependency_links.txt
+pywincalc.egg-info/not-zip-safe
+pywincalc.egg-info/top_level.txt
